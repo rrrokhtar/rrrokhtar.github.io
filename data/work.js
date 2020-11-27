@@ -1,7 +1,7 @@
 work = [
   {
     company: "Senslr Software House",
-    title: "Software Engineer Intern",
+    title: "Software Engineer",
     details:
       "Building web applications using MERN stack and building applications and solving\
       subproblems and modules using C++ and Python.",
