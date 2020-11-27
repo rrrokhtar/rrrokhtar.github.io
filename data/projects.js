@@ -128,10 +128,6 @@ projects = [
     details:
       "Implementation for modified nodal analysis algorithm for solving electrical circuits.",
   },
-  {
-    name: "",
-    details: "",
-  },
 ];
 dom = "";
 projects.forEach((project) => {
