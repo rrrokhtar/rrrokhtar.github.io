@@ -1,4 +1,5 @@
-# Personal website consists of 
+# Personal website 
+## Consists of 
 - Home
   - Intro
   - Background & Relevent Coursework
