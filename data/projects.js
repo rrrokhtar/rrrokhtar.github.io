@@ -1,10 +1,16 @@
 projects = [
+   {
+    name: "Whoami",
+    details:
+      "Handwriting writer classifier using IAM database, \
+     applied pattern recognition and machine learning besides statisitcal describing of images to acheivie classification of writers. ",
+  },
   {
     name: "P2P Network",
     details:
       "Aims to simulating some data link layer protocols, implemented error detection using checksum, \
       framing using byte stuffing, sliding window protocol was using Go Back N protocol and network architecture was distributed \
-   Software used for simulation was Omnet++",
+   Software used for simulation was Omnet++.",
   },
   {
     name: "Distributed files system",
