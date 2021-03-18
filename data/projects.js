@@ -1,12 +1,10 @@
 projects = [
-   
    {
     name: "Onepiecelang",
     details:
       "Text segmentation solution using natural language processing. \
-      It is concerned with splitting text into tokens. For example, “This is a whole sentence.” can be segmented into \
-      [“This”, “is”, “a”, “whole”,“sentence”, “.”]. Proposed to do segmentation of words without spaces. Given a string, such as the URL \
-   “thelongestlistofthelongeststuffatthelongestdomainnameatlonglast.com,” return a list of splitted words of this sentence. \
+      It is concerned with splitting text into tokens. For example, Proposed to do segmentation of words without spaces. Given a string, such as the URL \
+   'thelongestlistofthelongeststuffatthelongestdomainnameatlonglast.com' return a list of splitted words of this sentence. \
    Used unigrams model and Dynamic programming to solve it."
   },
    {
