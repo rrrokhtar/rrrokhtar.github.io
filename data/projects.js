@@ -1,4 +1,23 @@
 projects = [
+   
+   {
+    name: "Onepiecelang",
+    details:
+      "Text segmentation solution using natural language processing. \
+      It is concerned with splitting text into tokens. For example, “This is a whole sentence.” can be segmented into \
+      [“This”, “is”, “a”, “whole”,“sentence”, “.”]. Proposed to do segmentation of words without spaces. Given a string, such as the URL \
+“thelongestlistofthelongeststuffatthelongestdomainnameatlonglast.com,” return a list of splitted words of this sentence. Used unigrams model and Dynamic programming to solve it.\"
+  },
+   {
+    name: "Matchera",
+    details:
+   "An online automated ticket reservation system for football matches in the\
+   Egyptian Premier League is requested by the client. The system allows the EFA\
+   (Egyptian Federation Association) management to create, manage, and maintain\
+   current and future matches. The system should allow the users to reserve specific\
+   seats for the matches they want to attend. \
+   I have participted in building the front-end using React Javascript framework"
+  },
    {
     name: "Whoami",
     details:
