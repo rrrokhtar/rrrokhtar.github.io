@@ -38,7 +38,7 @@ internships = [
     ],
   },
   {
-    company: "ITIDA internship by NajahNow corp",
+    company: "NajahNow Corp.",
     title: "Software Engineer Intern | Jun. 2020 - Sept. 2020",
     details:
       "Developed additional features and enhancements for existing applications built using the PHP Laravel framework. Maintained the existing codebase and also provide bug-fixing for it",
