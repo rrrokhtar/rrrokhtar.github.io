@@ -1,7 +1,7 @@
 internships = [
   {
     company: "Senslr Software House",
-    title: "Software Engineer Intern",
+    title: "Software Engineer Intern | Jul. 2020 - Sept. 2020",
     details:
       "Building dynamic web pages using HTML/CSS/JS and using C3js for data visualization and Canvas for graphics as well as communicating with backend.",
     worked_on: [
@@ -39,7 +39,7 @@ internships = [
   },
   {
     company: "ITIDA internship by NajahNow corp",
-    title: "Software Engineer Intern",
+    title: "Software Engineer Intern | Jun. 2020 - Sept. 2020",
     details:
       "Developed additional features and enhancements for existing applications built using the PHP Laravel framework. Maintained the existing codebase and also provide bug-fixing for it",
     worked_on: [
