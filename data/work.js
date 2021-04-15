@@ -1,7 +1,7 @@
 work = [
   {
     company: "Senslr Software House",
-    title: "Software Engineer",
+    title: "Software Engineer |  Sept. 2020 - Nov. 2020 ",
     details:
       "Building web applications using MERN stack and building applications and solving\
       subproblems and modules using C++ and Python.",
