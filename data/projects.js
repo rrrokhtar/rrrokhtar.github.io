@@ -26,7 +26,7 @@ projects = [
   {
     name: "P2P Network",
     details:
-      "Aims to simulating some data link layer protocols, implemented error detection using checksum, \
+      "Aims to simulation of some data link layer protocols, implemented error detection using checksum, \
       framing using byte stuffing, sliding window protocol was using Go Back N protocol and network architecture was distributed \
    Software used for simulation was Omnet++.",
   },
