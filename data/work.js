@@ -1,6 +1,6 @@
 work = [
   {
-    company: "Red Hen Lab | GSoC 2021",
+    company: "Red Hen Lab with GSoC 2021",
     title: "Software Engineer |  May 2021 - Aug. 2021 ",
     details:
       "I have worked on RapidAnnotator at Red Hen Lab with Google Summer of Code 2021\
