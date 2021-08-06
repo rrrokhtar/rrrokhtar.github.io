@@ -427,6 +427,7 @@ screen and (max-width: 480px) {
     font-size: 12px;
     margin-right: 5px;;
     margin-bottom: 5px;
+    text-transform: lowercase;
 }
 .active-tag{
     background-color: #004df3; /* Set the background color */
@@ -447,5 +448,7 @@ screen and (max-width: 480px) {
   }
 
 .project-title{
-    color:#000000
+    color:#000000;
+    text-transform: capitalize;
+    font-weight: bold;
 }

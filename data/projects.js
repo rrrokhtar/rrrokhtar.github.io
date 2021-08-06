@@ -32,21 +32,21 @@ const T = {
 }
 
 projects = [{
-    name: "Auto Eye | Graduation project of bachelor's degree",
+    name: "Autoeye",
     details: "Auto-Eye is a software solution to help the autonomous vehicle in adverse weather conditions, \
                solution pipeline was dedicated in detection of the current state of the environment surrounding \
                the vehicle and then apply computer vision and deep learning techniques to enhance the vision stream \
                from the camera in order to be used to make the actions more accurate and better. Project was sponsored by [METI] ",
-    tags: [T.PY, T.SDC, T.GANS, T.CV, T.IP, T.ML, T.VO],
+    tags: ["graduation-project", T.PY, T.SDC, T.GANS, T.CV, T.IP, T.ML, T.VO],
     link: "",
     image: "",
   },
   {
-    name: "Airbnb EDA and regression (Big data analysis)",
+    name: "Airbnb EDA and regression",
     details: "Airbnb, Inc. operates an online marketplace for lodging,primarily homestays for vacation rentals, \
       and tourism activities. It is based in San Francisco,California. Our problem is going to be analysis and explorationon \
       the given dataset we provided in the proposal and modeling the data in order to predictthe price of an instance.",
-    tags: [T.PY, T.BD, T.DL, T.REG, T.ML, "airbnb"],
+    tags: [T.PY, T.BD, T.DL, T.REG, T.ML, "airbnb", "analysis"],
     link: "",
     image: "",
   },
@@ -204,7 +204,7 @@ projects.forEach((project) => {
     });
   }
   dom += `<div>
-    <b class="project-title">${project.name}</b>
+    <a class="project-title" ${project.link?"href="+project.link:""}">${project.name}</a>
     <br>
     <div>
       ${project.details} 
