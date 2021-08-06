@@ -423,11 +423,10 @@ screen and (max-width: 480px) {
     border-radius: 3px;     /* Add some roundness */
     border: 1px #CCF solid; /* Add a border */
     padding: 2px 5px;
-    display: inline;
+    display: inline-flex;
     font-size: 12px;
-    margin-top: 5px;
     margin-right: 5px;;
-
+    margin-bottom: 5px;
 }
 .active-tag{
     background-color: #004df3; /* Set the background color */
@@ -446,3 +445,7 @@ screen and (max-width: 480px) {
               user-select: none; /* Non-prefixed version, currently
                                     supported by Chrome, Edge, Opera and Firefox */
   }
+
+.project-title{
+    color:#000000
+}
