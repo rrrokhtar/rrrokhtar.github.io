@@ -1,5 +1,24 @@
 projects = [
    {
+      name:"Auto Eye | (Graduation Project)",
+      details:"Auto-Eye is a software solution to help the autonomous vehicle in adverse weather conditions, \
+               solution pipeline was dedicated in detection of the current state of the environment surrounding \
+               the vehicle and then apply computer vision and deep learning techniques to enhance the vision stream \
+               from the camera in order to be used to make the actions more accurate and better. Project was sponsored by [METI] "
+      category:[""],
+      link:"",
+      image:"",
+   },
+   {
+      name:"Airbnb EDA and regression (Big data analysis)",
+      details:"Airbnb, Inc. operates an online marketplace for lodging,primarily homestays for vacation rentals, \
+      and tourism activities. It is based in San Francisco,California. Our problem is going to be analysis and explorationon \
+      the given dataset we provided in the proposal and modeling the data in order to predictthe price of an instance.",
+      category:[""],
+      link:"",
+      image:"",
+   },
+   {
     name: "Onepiecelang",
     details:
       "Text segmentation solution using natural language processing. \
