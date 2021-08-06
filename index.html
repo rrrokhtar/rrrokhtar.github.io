@@ -25,7 +25,7 @@
 
 <body>
   <div class="wrapper">
-    <header>
+    <header class="noselect">
       <h1><a href="./index.html">Mohamed Mokhtar</a></h1>
       <div>
         6<sup>th</sup> of October City. Giza, EG.<br>
@@ -47,7 +47,7 @@
       <a target="_blank" href="mailto:m.mokhtar@outlook.it" class="fa fa-envelope-o"></a>
     </header>
     <section>
-      <nav>
+      <nav class="noselect">
         <a onclick="switchSection('hme')">Home</a>
         <a onclick="switchSection('edu')">Education</a>
         <a onclick="switchSection('pro')">Projects</a>
@@ -59,7 +59,7 @@
         <div>
           <h2 id="welcome-to-github-pages">Hi there, welcome :)</h2>
           <div>
-            I am a Senior Computer Engineering Student at Cairo University in Egypt.
+            I am a Junior Software Engineer graduated from Computer Engineering at Cairo University in Egypt.
             I am interested in development and learning machine learning algorithms
             as well as natural language processing and computer vision,
             loves tackling large scale challenging problems and learning new technologies.
@@ -134,22 +134,17 @@
           </div>
           <br>
           <hr>
-          <div>
+          <div id="interests">
             <h3>Interests</h3>
-            Big data,
-            Data science,
-            Deep learning,
-            Computer Vision,
-            NLP,
-            Cryptography,
-            Cryptocurrency
-            and Blockchain.
+            <!-- JSON DATA GOES HERE -->
           </div>
         </div>
         <br>
         <hr>
-        <h3>Personal Hobbies</h3>
-        <div>I like Reading, Learning, Illustration, Design and Calligraphy.</div>
+        <div id="hobbies">
+          <h3>Personal Hobbies</h3>
+            <!-- JSON DATA GOES HERE -->
+        </div>
       </div>
       <!-- Education -->
       <div class="hidden-content" id="edu">
@@ -159,7 +154,7 @@
           <small>
             Bachelor of Computer Engineering <br>
             Cairo University, Faculty of Engineering, Computer Department.<br>
-            Overall Grade: Very good with honors.
+            Overall Grade: [Very good] with [honors degree], Graduation project [Excellent]
           </small>
         </div>
         <br>
@@ -207,5 +202,7 @@
 <script src="./data/courses.js"></script>
 <script src="./data/skills.js"></script>
 <script src="./data/background.js"></script>
+<script src="./data/interests.js"></script>
+<script src="./data/hobbies.js"></script>
 
 </html>

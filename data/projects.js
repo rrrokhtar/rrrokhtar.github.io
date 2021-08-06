@@ -5,7 +5,7 @@ projects = [
                solution pipeline was dedicated in detection of the current state of the environment surrounding \
                the vehicle and then apply computer vision and deep learning techniques to enhance the vision stream \
                from the camera in order to be used to make the actions more accurate and better. Project was sponsored by [METI] ",
-      category:[""],
+      tags:["self-driving-cars", "gans"],
       link:"",
       image:"",
    },
@@ -14,7 +14,7 @@ projects = [
       details:"Airbnb, Inc. operates an online marketplace for lodging,primarily homestays for vacation rentals, \
       and tourism activities. It is based in San Francisco,California. Our problem is going to be analysis and explorationon \
       the given dataset we provided in the proposal and modeling the data in order to predictthe price of an instance.",
-      category:[""],
+      tags:["bigdata"],
       link:"",
       image:"",
    },
@@ -180,13 +180,33 @@ projects = [
   },
 ];
 dom = "";
+
 projects.forEach((project) => {
+  tags = "";
+  if (project.tags)
+  {
+    project.tags.forEach((tag) => {
+      if(tag.length)
+        tags += `<p class='noselect tag tag-${tag}' onclick=toggleTag('tag-${tag}')>${tag}</tag>`
+    });
+  }
   dom += `<div>
-  <b>${project.name}</b>
-  <br>
-  ${project.details} 
-  </div>
-  <br>
-  <hr>`;
+    <b>${project.name}</b>
+    <br>
+    <div>
+      ${project.details} 
+    </div>
+    <div>
+      ${tags}
+    </div>
+    </div>
+    <br>
+    <hr>`;
 });
 document.getElementById("pro").insertAdjacentHTML("beforeend", dom);
+function toggleTag(tagname) {
+  var elements = document.getElementsByClassName(tagname);
+  for (var i = 0; i < elements.length; i++) {
+    elements[i].classList.toggle("active-tag");
+  }
+}

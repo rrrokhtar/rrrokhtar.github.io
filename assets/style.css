@@ -417,3 +417,32 @@ screen and (max-width: 480px) {
 	}
 }
 
+
+.tag{
+    background-color: #EEF; /* Set the background color */
+    border-radius: 3px;     /* Add some roundness */
+    border: 1px #CCF solid; /* Add a border */
+    padding: 2px 5px;
+    display: inline;
+    font-size: 12px;
+    margin-top: 5px;
+    margin-right: 5px;;
+
+}
+.active-tag{
+    background-color: #004df3; /* Set the background color */
+    color:#EEF;
+}
+.tag:hover{
+    cursor: pointer;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+  }

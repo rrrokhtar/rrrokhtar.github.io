@@ -10,6 +10,13 @@ work = [
       fixing bugs on the existing code base",
   },
   {
+    company: "Seen Tech",
+    title: "Software Engineer |  Aug. 2021 - Present ",
+    details:
+      "Building web applications and services using Golang with fiber and building user interface pages using React and solving\
+      subproblems and modules using another languages.",
+  },
+  {
     company: "Senslr Software House",
     title: "Software Engineer |  Sept. 2020 - Nov. 2020 ",
     details:
