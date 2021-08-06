@@ -144,7 +144,7 @@ projects = [{
     name: "Multi-cycles CPU Simulation",
     details: "Designed an architecture for a processor based on PDP-11 instruction set\
       and assembly language using Modelsim as simulator tool and VHDL as design language.",
-    tags: ["computer architecture", "vhdl", "hardware", T.SD],
+    tags: ["computer-architecture", "vhdl", "hardware", T.SD],
   },
   {
     name: "Pipelined Processor 5 Stages",
@@ -152,7 +152,7 @@ projects = [{
       assembly language and 5 stages model [Fetch, Decode, Execute, Memory and Write back]\
       and applied pipelining concept on it.\
       using Modelsim as simulator tool and VHDL as Hardware description language .",
-    tags: ["computer architecture", "vhdl", "hardware", T.SD],
+    tags: ["computer-architecture", "vhdl", "hardware", T.SD],
   },
   {
     name: "Voice Controlled Car",
