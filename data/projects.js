@@ -169,13 +169,13 @@ projects = [{
   {
     name: "Integrated Circuits Tester",
     details: "Unit testing circuit for verifying the operation of ICs/Components using sequential logic design principles.",
-    tags: ["logisim", "login-design", "hardware"],
+    tags: ["logisim", "logic-design", "hardware"],
   },
   {
     name: "Simple ALU Signed Circuit",
     details: "A simple calculator using basic digital logic\
       design gates to perform arithmetic operations.",
-    tags: ["logisim", "login-design", "hardware"],
+    tags: ["logisim", "logic-design", "hardware"],
   },
   {
     name: "Game Simulator",
