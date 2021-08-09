@@ -36,7 +36,7 @@ projects = [{
     details: "Auto-Eye is a software solution to help the autonomous vehicle in adverse weather conditions, \
                solution pipeline was dedicated in detection of the current state of the environment surrounding \
                the vehicle and then apply computer vision and deep learning techniques to enhance the vision stream \
-               from the camera in order to be used to make the actions more accurate and better. Project was sponsored by [METI] ",
+               from the camera in order to be used to make the actions more accurate and better. Project was sponsored by Micro Engineering Tech Inc [METI] ",
     tags: ["graduation-project", T.PY, T.SDC, T.GANS, T.CV, T.IP, T.ML, T.VO],
     link: "",
     image: "",
