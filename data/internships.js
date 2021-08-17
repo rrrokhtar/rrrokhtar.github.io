@@ -1,6 +1,6 @@
 internships = [
   {
-    company: "Senslr Software House",
+    company: "Seen Tech",
     title: "Software Engineer Intern | Jul. 2020 - Sept. 2020",
     details:
       "Building dynamic web pages using HTML/CSS/JS and using C3js for data visualization and Canvas for graphics as well as communicating with backend.",
