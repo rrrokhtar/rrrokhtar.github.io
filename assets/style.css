@@ -452,3 +452,14 @@ screen and (max-width: 480px) {
     text-transform: capitalize;
     font-weight: bold;
 }
+
+.pimg {
+    border-radius: 50%;
+    width:50%;
+    display: block;
+    align-content: center;
+}
+.pimg_container{
+    text-align: center;
+    text-align: -webkit-center;
+}
