@@ -1,5 +1,26 @@
 work = [
   {
+    company: "Bitnine Global Inc.",
+    title: "Software Engineer Intern |  Mar. 2022 - Present ",
+    details:
+      "Contributing to Apache AGE project through \
+      taking part in mathematical functions \
+      support and other related projects. Moreover, \
+      taking part in the development of AGE and creating PRs to the project related to the parts I am assigned to as well as\
+      creating technical blogs related to AGE and answering stackoverflow questions related to apache-age.",
+  },
+  {
+    company: "Fedni",
+    title: "Software Engineer |  Dec. 2022 - Mar. 2023 ",
+    details:
+      "Taking part in fixing and creating new features \
+      of the Fedni Platform and created the seed of a new application \
+      based its core is based on computer vision algorithms. \
+      Moreover, addeing new features to the platform some features are for \
+      the admin dashboard and some else were for the end-user as well as \
+      taking part on creating a new app for the company which still in development phase",
+  },
+  {
     company: "Red Hen Lab with GSoC 2021",
     title: "Software Engineer |  May 2021 - Aug. 2021 ",
     details:

@@ -17,7 +17,7 @@ deeplearning = [
 ];
 database = ["SQL & MySQL", "MongoDB", "PostgreSQL", "Blockchain"];
 devops = ["GCP", "AWS", "Azure", "CleverCloud", "Docker"];
-backend = ["Building REST APIs", "NodeJs", "ExpressJs", "Laravel", "Django"];
+backend = ["Building REST APIs", "NodeJs/ExpressJs", "Golang/Gofiber", "Laravel", "Flask and FastAPI"];
 frontend = ["HTML", "CSS", "JavaScript", "React", "Angular"];
 
 writeDom(essentials,"essentials")
