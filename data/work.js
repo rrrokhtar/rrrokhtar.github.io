@@ -21,6 +21,23 @@ work = [
       taking part on creating a new app for the company which still in development phase",
   },
   {
+    company: "Red Hen Lab with GSoC 2022",
+    title: "Software Engineer |  May 2022 - Nov. 2022 ",
+    details:
+      "Extended my work on 21s I have joined for the second time at 22s program, implementing new video experiment type\
+      Rapid Annotator tries  to enable researchers worldwide to annotate large chunks\
+      of data in a very short period of time with the least effort possible and try to\
+      get started with minimal training. My role was adding new features and\
+      fixing bugs on the existing code base",
+  },
+  {
+    company: "Ajax Business Solutions",
+    title: "Software Engineer |  Aug. 2021 - Mar. 2022 ",
+    details:
+      "Building web applications and services using Golang with fiber and building user interface pages using React and solving\
+      subproblems and modules using another languages.",
+  },
+  {
     company: "Red Hen Lab with GSoC 2021",
     title: "Software Engineer |  May 2021 - Aug. 2021 ",
     details:
@@ -30,13 +47,6 @@ work = [
       get started with minimal training. My role was adding new features and\
       fixing bugs on the existing code base",
   },
-  /*{
-    company: "Seen Tech",
-    title: "Software Engineer |  Aug. 2021 - Present ",
-    details:
-      "Building web applications and services using Golang with fiber and building user interface pages using React and solving\
-      subproblems and modules using another languages.",
-  },*/
   {
     company: "Seen Tech",
     title: "Software Engineer |  Sept. 2020 - Nov. 2020 ",
