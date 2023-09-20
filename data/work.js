@@ -1,7 +1,7 @@
 work = [
   {
     company: "Bitnine Global Inc.",
-    title: "Software Engineer Intern |  Mar. 2022 - Aug. 2022 ",
+    title: "Software Engineer Intern |  Mar. 2023 - Aug. 2023 ",
     details:
       "Contributing to Apache AGE project through \
       taking part in mathematical functions \
