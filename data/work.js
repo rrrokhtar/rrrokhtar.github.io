@@ -1,9 +1,21 @@
 work = [
   {
-    company: "Bitnine Global Inc.",
-    title: "Software Engineer Intern |  Mar. 2023 - Aug. 2023 ",
+    company: "Oanda Coinpass Limited",
+    title: "Software Engineer |  Oct. 2023 - Present ",
     details:
-      "Contributing to Apache AGE project through \
+      "Part of the backend development team, building services for the platform using serverless and microservices architecture  \
+  },
+  {
+    company: "Eseed",
+    title: "Software Engineer |  Aug. 2023 - Oct. 2023 ",
+    details:
+      "Worked as a Freelance developer with their backend team, developing multiple projects for different clients \
+  },
+  {
+    company: "Bitnine Global Inc.",
+    title: "Software Engineer |  Mar. 2023 - Aug. 2023 ",
+    details:
+      "Contributing to Apache AGE project as an intern through \
       taking part in mathematical functions \
       support and other related projects. Moreover, \
       taking part in the development of AGE and creating PRs to the project related to the parts I am assigned to as well as\
