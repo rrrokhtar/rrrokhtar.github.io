@@ -2,14 +2,12 @@ work = [
   {
     company: "Oanda Coinpass Limited",
     title: "Software Engineer |  Oct. 2023 - Present ",
-    details:
-      "Part of the backend development team, building services for the platform using serverless and microservices architecture  \
+    details: "Part of the backend development team, building services for the platform using serverless and microservices architecture"
   },
   {
     company: "Eseed",
     title: "Software Engineer |  Aug. 2023 - Oct. 2023 ",
-    details:
-      "Worked as a Freelance developer with their backend team, developing multiple projects for different clients \
+    details: "Worked as a Freelance developer with their backend team, developing multiple projects for different clients"
   },
   {
     company: "Bitnine Global Inc.",
